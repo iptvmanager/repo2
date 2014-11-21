@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mykodi" name="mykodi" version="1.0" provider-name="pipcan2">
+	<extension point="xbmc.addon.repository" name="mykodi-1.0">
+		<info compressed="false">https://github.com/pipcan2/repo2/raw/master/addons.xml</info>
+		<checksum>https://github.com/pipcan2/repo2/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/pipcan2/repo2/raw/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install MY Addons</summary>
+		<description>Download and install addons from pipcan2.......For OFFICIAL !! Support Visit http://xunitytalk.com/</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
